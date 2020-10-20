@@ -9,3 +9,5 @@ project in LUA
 in the folder "endProject" is the game as it was at the end of the project.
 
 project1.2 is the game  after some improvement and more feature since i keep on develloping it for fun
+
+(particle.tic is only tool for creating particle effect)
